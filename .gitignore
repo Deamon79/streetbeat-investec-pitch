@@ -1,0 +1,13 @@
+# Private / local-only files (NEVER commit)
+src/
+_build/
+encrypt.sh
+gate-template.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
